@@ -1,0 +1,6 @@
+var_str = input("Enter a string: ")
+var_int = int(input("Enter an integer value: "))
+print(type(var_int))
+print(type(var_str))
+print(var_int)
+print(var_str)
