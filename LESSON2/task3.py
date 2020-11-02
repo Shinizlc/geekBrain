@@ -1,3 +1,4 @@
+###implementation via dictionary
 while True:
     try:
         user_month = abs(int(input('Enter the number of month: ')))
@@ -21,7 +22,7 @@ while True:
         print('Wrong number of month. Enter the number from 1 to 12.')
 
 #######
-
+####implementation via list
 while True:
     try:
         user_month = abs(int(input('Enter the number of month: ')))

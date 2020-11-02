@@ -1,7 +1,7 @@
 l = []
 while True:
     elem = input('Enter your value: ')
-    if elem =='': ###почему не работает is None
+    if elem =='': ###почему не работает is None?
         break
     l.append(elem)
 
