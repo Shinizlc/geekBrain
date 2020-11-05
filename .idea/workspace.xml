@@ -22,7 +22,6 @@
     <list default="true" id="ce661376-5a83-47ea-929f-baedee12e38b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LESSON3/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON3/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LESSON3/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON3/task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,16 +264,5 @@
     <state width="1259" height="219" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1604233853016" />
     <state width="1259" height="219" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1604234746278" />
     <state width="1259" height="223" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1603982442345" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LESSON3/task1.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
