@@ -36,7 +36,7 @@ def division (a:int,b:int)-> float:
     except ValueError:
         print('wrong type, insert integer values')
     except ZeroDivisionError:
-        print('enter the value of the denominotar that is not equal to 0')
+        print('enter the value of the denominator that is not equal to 0')
 
 
 # result=division('8',1)
