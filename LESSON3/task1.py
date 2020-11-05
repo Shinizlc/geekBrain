@@ -27,6 +27,7 @@
 # print(c)
 
 def division (a:int,b:int)-> float:
+    """function for division 2 numbers"""
     try:
         a=int(a)
         b=int(b)
@@ -38,5 +39,10 @@ def division (a:int,b:int)-> float:
         print('enter the value of the denominotar that is not equal to 0')
 
 
-result=division('8',1)
-print(result)
+# result=division('8',1)
+# print(result)
+
+# print(division.__doc__)
+
+assert division(1,1)==1
+assert division(2,0)==None
