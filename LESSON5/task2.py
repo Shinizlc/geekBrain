@@ -1,6 +1,6 @@
 import os
 dir=os.path.dirname(__file__)
-file_path=os.path.join(dir,'file_path')
+file_path=os.path.join(dir,'task2.txt')
 
 d={}
 k=0
@@ -13,5 +13,3 @@ with open(file_path,'r') as file:
             word=word.strip()
             d[word]=d.get(word,0)+1
         print(d)
-
-###line.strip убирает \n

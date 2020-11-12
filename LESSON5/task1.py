@@ -1,6 +1,6 @@
 import os
 import sys
-with open('file.txt', 'w') as file:
+with open('task1.txt', 'w') as file:
     while True:
         text=str(input('Enter the line or enter "exit":\n')+'\n')
         print(text)
